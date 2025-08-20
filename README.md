@@ -55,4 +55,4 @@ This Arduino project implements a Bluetooth Low Energy (BLE) Human Interface Dev
 
 ---
 
-⚠️ This project is specifically designed and tested for **Kali Linux** and **Parrot OS** only. The keyboard shortcuts and commands may not work properly on other operating system
+⚠️ This project is specifically designed and tested for **Kali Linux** and **Parrot OS** only. The keyboard shortcuts and commands may not work properly on other operating system!!
